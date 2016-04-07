@@ -14,8 +14,9 @@ null,
 {"id":12,"expanded":false,"name":"MAP012","order":9,"parentId":3,"scrollX":1016,"scrollY":497},
 {"id":13,"expanded":false,"name":"Business District","order":13,"parentId":3,"scrollX":798,"scrollY":1183.5},
 {"id":14,"expanded":true,"name":"Demon Castle","order":14,"parentId":3,"scrollX":1131,"scrollY":496.5},
-{"id":15,"expanded":false,"name":"Base Interior","order":15,"parentId":3,"scrollX":1066.5,"scrollY":1084.5},
+{"id":15,"expanded":false,"name":"Base Interior","order":15,"parentId":3,"scrollX":1066,"scrollY":1084},
 {"id":16,"expanded":true,"name":"Introduction","order":16,"parentId":3,"scrollX":748.5,"scrollY":508.5},
-{"id":17,"expanded":false,"name":"IntroFadeIn","order":17,"parentId":16,"scrollX":748.5,"scrollY":508.5},
-{"id":18,"expanded":false,"name":"Casino","order":18,"parentId":3,"scrollX":451,"scrollY":1000}
+{"id":17,"expanded":true,"name":"IntroFadeIn","order":17,"parentId":16,"scrollX":748.5,"scrollY":508.5},
+{"id":18,"expanded":false,"name":"Casino","order":19,"parentId":3,"scrollX":1030,"scrollY":624},
+{"id":19,"expanded":false,"name":"CreditFadeIn","order":18,"parentId":17,"scrollX":832,"scrollY":640}
 ]
