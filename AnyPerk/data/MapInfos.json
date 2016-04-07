@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":748.5,"scrollY":508.5},
-{"id":2,"expanded":true,"name":"Ramen Room","order":3,"parentId":3,"scrollX":451,"scrollY":313},
+{"id":2,"expanded":true,"name":"Ramen Room","order":3,"parentId":3,"scrollX":748.5,"scrollY":508.5},
 {"id":3,"expanded":true,"name":"Rework Anyperk","order":2,"parentId":1,"scrollX":741,"scrollY":501},
 {"id":4,"expanded":true,"name":"Maguro","order":4,"parentId":3,"scrollX":748.5,"scrollY":508.5},
 {"id":5,"expanded":true,"name":"Tamago","order":8,"parentId":3,"scrollX":459,"scrollY":311},
